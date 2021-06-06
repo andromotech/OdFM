@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Odia FM</string>
+    <string name="not_admin_name">Odia music listner</string>
+    <string name="not_admin_description">android realtime music listner</string>
+    <string name="action_settings">Settings</string>
+    <!--string name="ad_view">ca-app-pub-2214774765300158/1242285595</string-->
+</resources>
